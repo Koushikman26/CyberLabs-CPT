@@ -4,7 +4,7 @@ Welcome to my curated lab collection where theory meets practice ⚙️
 This repository showcases real-world networking scenarios built in Cisco Packet Tracer, covering core concepts in cybersecurity, routing, remote access, and network service setup — all backed by hands-on configuration and testing.
 
 > 💡 Built as part of my cybersecurity journey at La Trobe University, Australia 🇦🇺  
-> 🔧 Split and co-developed with my teammate — collaborative learning, real setups, real protocols.
+🔧 Fully designed, configured, and documented by me — hands-on learning through real setups and protocols.
 
 ---
 
