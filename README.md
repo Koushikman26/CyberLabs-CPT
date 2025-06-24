@@ -1,4 +1,4 @@
-# Lab 8: Building a Functional Cyber Network
+# Building a Functional Cyber Network
 
 Simulated a small-scale secure network with essential services.
 
